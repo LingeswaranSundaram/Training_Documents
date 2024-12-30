@@ -1046,7 +1046,8 @@ Day 4 : 6th Dec. 2024
 	
 		sudo apt install jdk_11	    
 		sudo apt install maven 		
-        sudo apt install docker 
+		sudo apt install git
+		sudo apt install docker
 		
 	save 
 	
